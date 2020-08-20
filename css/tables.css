@@ -1,0 +1,39 @@
+table {
+  border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    background-color: floralwhite;
+    border: 2px solid navy;
+}
+    
+
+tr {
+    vertical-align: top;
+}
+
+td, th {
+    padding: .5em;
+    border: 1.5px solid navy;
+    }
+
+
+
+table.client {
+    margin: 40px auto; /* T R B L*/
+}
+
+table.client th {
+    text-align: left;
+    width: 30%;
+    font-weight:500;
+}
+
+table.audience {
+    margin: 40px auto; /* T R B l */
+    
+}
+
+table.audience th {
+    width: 33.3%;
+    font-weight: 500;
+}
